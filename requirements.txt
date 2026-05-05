@@ -1,0 +1,10 @@
+torch
+torchvision
+gymnasium
+gym_soarm
+lerobot
+transformers
+numpy
+imageio[ffmpeg]
+opencv-python
+Pillow
