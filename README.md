@@ -1,4 +1,4 @@
-# SmolVLA-with-RTC-MuJoCo
+# SmolVLA with RTC MuJoCo
 Run [SmolVLA](https://huggingface.co/lerobot/smolvla_base) — a compact Vision-Language-Action model — on the SO-ARM robotic simulator using **Real-Time Chunking (RTC)** for smooth, temporally consistent action execution.
 
 ---
